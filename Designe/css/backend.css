@@ -1,0 +1,26 @@
+.navbar {
+  border-radius: 0;
+}
+element.style {
+  width: 280px;
+  height: 50px;
+  margin-left: -229px;
+}
+
+body {
+  font-size: 20px;
+}
+.navbar-brand {
+  padding: 15px, 12px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+.dropdown-menu > li > a {
+  padding: 20px;
+}
+.bg-success {
+  background-color: #1b6c47 !important;
+}
